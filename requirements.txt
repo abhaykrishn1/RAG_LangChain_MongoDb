@@ -1,7 +1,6 @@
-langchain
-langchain-community
-langchain-core
-langchain-openai
-langchain-mongodb
+langchain-community==0.3.3
+langchain-core==0.3.12
+langchain-openai==0.2.3
+langchain-mongodb==0.2.0
 pymongo
-pypdf
+pypdf==5.0.1
